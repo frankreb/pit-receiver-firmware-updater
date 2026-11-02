@@ -2,10 +2,10 @@
   "format": 1,
   "hardware": "PIT-V4-G0B1",
   "chip_id": "0x467",
-  "version": "4.5.2",
-  "file": "pit-v4-4.5.2.bin",
+  "version": "4.5.3",
+  "file": "pit-v4-4.5.3.bin",
   "flash_address": "0x08000000",
-  "size": 115412,
-  "sha256": "826872c50a97c35e98b6bbd85511e50beac42a8cd004464f6dc32e6cf23e4333",
-  "crc32": "0x107B1903"
+  "size": 115896,
+  "sha256": "a81cd2869f68a4cc6c97c05dd1fef472afdd2c8c9362e45c48017a3f33ba7b6b",
+  "crc32": "0x6977C7C2"
 }
